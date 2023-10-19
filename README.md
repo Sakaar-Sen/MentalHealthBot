@@ -9,13 +9,13 @@ An AI-powered mental health chatbot created using the LangChain framework.
 
 
 ## Homepage
-![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/7884fb5c-0e02-4064-b49c-c5eb9449abc9)
+![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/917b2a07-458d-4fbb-bbdf-0f663844b156)
 
 
 ## Examples
 The prompt examples below were taken from reddit and not included in the case studies dataset. 
-![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/c093bf5b-8b12-43df-81cd-0a9270ee8887)
-![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/9e006820-3254-4990-8ae2-fa23a60db9ae)
+![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/7056b463-0851-4899-b6a7-92af71cf50cc)
+![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/8e430fcc-039e-422d-a5a5-13007a8f5cb9)
 
 
 ## Usage
