@@ -26,7 +26,7 @@ To use the Mental Health Assistant, follow these steps:
 
 2. Install the required libraries: `pip install -r requirements.txt`
 
-3. Start the chainlit app with `chainlit run app.py` or interact with the chatbot using the jupyter notebook.
+3. Start the chainlit app with `chainlit run app.py` 
 
 
 # Contributing
