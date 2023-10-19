@@ -8,7 +8,7 @@ An AI-powered mental health chatbot created using the LangChain framework.
 - Maintains a chat history, allowing users and the AI therapist to refer back to previous interactions, ensuring a coherent and continuous conversation experience.
 
 
-## HomePage
+## Homepage
 ![image](https://github.com/Sakaar-Sen/MentalHealthBot/assets/52592149/7884fb5c-0e02-4064-b49c-c5eb9449abc9)
 
 
